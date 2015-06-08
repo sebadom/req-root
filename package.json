@@ -4,7 +4,7 @@
   "description": "Require your modules from the root of your project",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha \"test/**/test*.js\""
   },
   "keywords": [
     "require",
@@ -15,5 +15,16 @@
     "root"
   ],
   "author": "Sebastian Dominguez <sebadominguezpicchio@gmail.com>",
-  "license": "MIT"
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/sebadom/root-require.git"
+  },
+  "bugs": {
+    "url" : "https://github.com/sebadom/root-require/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5"
+  }
 }
