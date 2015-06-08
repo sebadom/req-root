@@ -1,5 +1,5 @@
 {
-  "name": "root-require",
+  "name": "req-root",
   "version": "1.0.0",
   "description": "Require your modules from the root of your project",
   "main": "index.js",
