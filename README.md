@@ -1,5 +1,5 @@
-root-require
-============
+req-root
+========
 
 A simple package that takes care requiring relative packages on your apps.
 
