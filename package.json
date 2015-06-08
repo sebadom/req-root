@@ -1,0 +1,19 @@
+{
+  "name": "require-abs",
+  "version": "1.0.0",
+  "description": "Require your modules from the root of your project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "require",
+    "absolute",
+    "url",
+    "path",
+    "require",
+    "root"
+  ],
+  "author": "Sebastian Dominguez <sebadominguezpicchio@gmail.com>",
+  "license": "MIT"
+}
